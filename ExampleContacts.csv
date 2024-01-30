@@ -1,0 +1,11 @@
+FirstName,LastName,Email,ExternalDataReference,Department,City,Country
+John,Doe,john_doe@email.com,12345,Marketing,Denver,USA
+Jane,Doe,jane_doe@email.com,67890,Engineering,Seattle,USA
+Alice,Brown,aliceb@email.com,67395,Engineering,San Francisco,USA
+Bob,Johnson,b.johnson@example.com,28741,Finance,London,UK
+Eve,Smith,esmith@example.com,90729,Legal,Minneapolis,USA
+Thomas,Moreau,thomas.moreau@company.com,48056,Marketing,Paris,France
+Ian,White,ian_white76@mail.com,11909,Human Resources,Melbourne,Australia
+Chelsey,O'Neil,chelsey@mail.com,20486,Finance,Chicago,USA
+Anita,Singh,anita.singh@company.com,57360,Sales,New Delhi,India
+Liu,Xiang,liu.xiang@company.com,20583,Quality Assurance,Shanghai,China
